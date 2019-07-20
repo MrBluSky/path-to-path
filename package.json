@@ -1,6 +1,6 @@
 {
   "name": "path-to-path",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "From pathA to pathB，supported HashRouter and BrowserRouter",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,10 @@
   },
   "keywords": [
     "path-to-path",
-    "redirect url"
+    "path to path",
+    "redirect url",
+    "nodejs",
+    "javascript"
   ],
   "author": "",
   "license": "ISC",
