@@ -1,6 +1,6 @@
 {
   "name": "path-to-path",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "From pathA to pathB，supported HashRouter and BrowserRouter",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/MrBluSky/path-to-path.git"
   },
-  "keywords": [],
+  "keywords": [
+    "path-to-path",
+    "redirect url"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {

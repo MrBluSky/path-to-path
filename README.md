@@ -3,7 +3,9 @@
 From pathA to pathB，supported HashRouter and BrowserRouter
 
 ## Installation:  
-`npm install path-to-path --save`
+```
+npm install path-to-path --save
+```
 
 ## Usage: 
 ```
