@@ -1,0 +1,23 @@
+{
+  "name": "path-to-path",
+  "version": "1.0.0",
+  "description": "From pathA to pathB，supported HashRouter and BrowserRouter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBluSky/path-to-path.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrBluSky/path-to-path/issues"
+  },
+  "homepage": "https://github.com/MrBluSky/path-to-path#readme",
+  "dependencies": {
+    "path-to-regexp": "^3.0.0"
+  }
+}
