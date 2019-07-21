@@ -13,9 +13,9 @@ const pathToPath = require('path-to-path');
 const toPath = pathToPath(list, path);
 ```
 ### ptions:
-- list: config path  list
-example: 
+- list: config path  list  
 ``` 
+// example: 
   [
     {
       path: '/a/:id',
@@ -28,9 +28,9 @@ example:
     ...
   ]
 ```
-- path: operation path
-example: 
+- path: operation path  
 ```
+// example: 
 /a/123
 ```
 
