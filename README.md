@@ -9,11 +9,12 @@ npm install path-to-path --save
 
 ## Usage: 
 ```
-const pathToPath = require('path-to-regexp');
+const pathToPath = require('path-to-path');
 const toPath = pathToPath(list, path);
 ```
 ### ptions:
 - list: config path  list
+example: 
 ``` 
   [
     {
@@ -28,13 +29,14 @@ const toPath = pathToPath(list, path);
   ]
 ```
 - path: operation path
+example: 
 ```
 /a/123
 ```
 
 ## Example: 
 ```
-const pathToPath = require('path-to-regexp');
+const pathToPath = require('path-to-path');
 const list = [
   {
     path: '/a/:id',
