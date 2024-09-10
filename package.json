@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/MrBluSky/path-to-path#readme",
   "dependencies": {
-    "path-to-regexp": "^3.0.0"
+    "path-to-regexp": "^8.0.0"
   }
 }
